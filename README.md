@@ -9,6 +9,7 @@ You can find documentation and how to get an api key at this url: https://newsap
 1. Display the news headlines in a grid format with 2 columns in portrait mode and with 3 columns in landscape mode.
 2. Every 1st out of 7 news articles display them in full width in the grid.
 ### See the following example:
+<img src="bonial_example.png" height="300">
    
 ## Functionality requirements
 1. On launch the app should load 21 news articles
