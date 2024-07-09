@@ -1,0 +1,201 @@
+{
+    "status" : "ok",
+    "articles" : [
+        {
+            "source" : {
+                "id" : null,
+                "name" : "New York Post"
+            },
+            "author" : "Associated Press",
+            "urlToImage" : "https:\/\/nypost.com\/wp-content\/uploads\/sites\/2\/2024\/07\/newspress-collage-41t89v8e7-1720357388061.jpg?quality=75&strip=all&1720343083&w=1024",
+            "content" : "The scammers are winning.\r\nSophisticated overseas criminals are stealing tens of billions of dollars from Americans every year, a crime wave projected to get worse as the U.S. population ages and tec… [+8199 chars]",
+            "title" : "Scammers get away with billions from elderly Americans every year - New York Post ",
+            "publishedAt" : "2024-07-08T13:34:00Z",
+            "description" : "Sophisticated overseas criminals are stealing tens of billions of dollars from Americans every year, a crime wave projected to get worse as the U.S. population ages and technology like AI makes it …",
+            "url" : "https:\/\/nypost.com\/2024\/07\/07\/us-news\/scammers-get-away-with-billions-from-elderly-americans-every-year\/"
+        },
+        {
+            "source" : {
+                "id" : "reuters",
+                "name" : "Reuters"
+            },
+            "author" : "Reuters.com",
+            "urlToImage" : null,
+            "content" : null,
+            "title" : "Could Kamala Harris beat Donald Trump in November's presidential race? - Reuters.com",
+            "publishedAt" : "2024-07-07T13:32:00Z",
+            "description" : null,
+            "url" : "https:\/\/www.reuters.com\/world\/us\/could-kamala-harris-beat-donald-trump-novembers-presidential-race-2024-07-07\/"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Page Six"
+            },
+            "author" : "Nicholas Hautman",
+            "urlToImage" : "https:\/\/pagesix.com\/wp-content\/uploads\/sites\/3\/2024\/07\/tay-travis-mashup-eras-tour.jpg?quality=75&strip=all&w=1024",
+            "content" : "Travis Kelce appeared to tear up as Taylor Swift performed a special mashup in Amsterdam. Chiefs\/Instagram\r\nTravis Kelce is in his feels.\r\nThe Kansas City Chiefs tight end appeared to cry as Taylor S… [+2855 chars]",
+            "title" : "Travis Kelce seen crying as fans joke Taylor Swift gave him a 'personal concert' with special mashup in Amsterdam - Page Six",
+            "publishedAt" : "2024-07-07T13:25:00Z",
+            "description" : "Chiefs quarterback Patrick Mahomes’ wife, Brittany Mahomes, was seen walking over to Kelce to make sure he was OK as he seemingly wiped tears from his eyes.",
+            "url" : "https:\/\/pagesix.com\/2024\/07\/07\/entertainment\/travis-kelce-seen-crying-at-taylor-swift-concert-in-amsterdam\/"
+        },
+        {
+            "source" : {
+                "id" : "cbs-news",
+                "name" : "CBS News"
+            },
+            "author" : null,
+            "urlToImage" : "https:\/\/assets1.cbsnewsstatic.com\/hub\/i\/r\/2024\/07\/06\/9b17e522-ad5c-4a8a-a308-960215c26ade\/thumbnail\/1200x630\/60a646d8a14628d3ca8ffcbb08e28f54\/ap24187535037597.jpg?v=57e8061b2038d609da26e467de5ddfb8",
+            "content" : "Hamas says that reports that the militant group has dropped a key demand during ongoing discussions for a cease-fire deal are inaccurate, a senior Hamas official told CBS on Sunday.\r\nThe official sai… [+6777 chars]",
+            "title" : "Hamas rejects report that it dropped key demand in possible cease-fire deal - CBS News",
+            "publishedAt" : "2024-07-07T13:12:03Z",
+            "description" : "The militant group – which controlled Gaza before triggering the war with an Oct. 7 attack on Israel – has reportedly given initial approval of the cease-fire deal.",
+            "url" : "https:\/\/www.cbsnews.com\/news\/hamas-appears-clear-way-possible-ceasefire-deal-israel-reportedly-dropping-key-demand-egypt\/"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "CNBC"
+            },
+            "author" : "Ashton Jackson",
+            "urlToImage" : "https:\/\/image.cnbcfm.com\/api\/v1\/image\/107317057-1697217704151-gettyimages-1387956555-dsc06676.jpeg?v=1720028758&w=1920&h=1080",
+            "content" : "Millennials and Gen Zers are taking advantage of their off-days and weekends by \"bed rotting\" a trend that involves spending the entire day under the comfort of their duvets while sleeping in, watchi… [+4233 chars]",
+            "title" : "Psychiatrist: Bed rotting days are ‘very tempting,’ but don’t really help you feel rested—here’s how to recharge instead - CNBC",
+            "publishedAt" : "2024-07-07T13:00:01Z",
+            "description" : "Young people swear by \"bed rotting,\" a trend where you stay in bed all day. But it doesn't really offer the rest you need, says psychiatrist Samantha Boardman.",
+            "url" : "https:\/\/www.cnbc.com\/2024\/07\/07\/psychiatrist-bed-rotting-days-are-tempting-but-not-very-restful.html"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "BBC News"
+            },
+            "author" : "https:\/\/www.facebook.com\/bbcnews",
+            "urlToImage" : "https:\/\/static.files.bbci.co.uk\/ws\/simorgh-assets\/public\/news\/images\/metadata\/poster-1024x576.png",
+            "content" : "Andrew HardingReporting from Marseille\r\nImage caption, 'This is not the France I dream of. For me, France is a welcoming country', Yasmina Hellal said\r\nIn the southern\r\nport of Marseille, the issue o… [+1976 chars]",
+            "title" : "Turnout high in French election as far right seeks majority - BBC.com",
+            "publishedAt" : "2024-07-07T12:57:36Z",
+            "description" : "Marine Le Pen and Jordan Bardella's National Rally hopes for an outright win but rival parties have traded votes in an effort to stop them.",
+            "url" : "https:\/\/www.bbc.com\/news\/live\/ck7gydwgvy8t"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "[Removed]"
+            },
+            "author" : null,
+            "urlToImage" : null,
+            "content" : "[Removed]",
+            "title" : "[Removed]",
+            "publishedAt" : "1970-01-01T00:00:00Z",
+            "description" : "[Removed]",
+            "url" : "https:\/\/removed.com"
+        },
+        {
+            "source" : {
+                "id" : "cnn",
+                "name" : "CNN"
+            },
+            "author" : "Jeremy Diamond",
+            "urlToImage" : "https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/processed-beeec735-0d12-49f0-9b09-afe55bf206cc.jpeg?c=16x9&q=w_800,c_fill",
+            "content" : "Thick clouds of dirt and sand fill the air as our convoy of Humvees arrives in Rafah, the first time international reporters have been allowed in since the Israeli military launched its ground assaul… [+3627 chars]",
+            "title" : "Israel says its operation in Rafah is ‘limited’. Fighting there has left parts of it unrecognizable - CNN",
+            "publishedAt" : "2024-07-07T12:11:00Z",
+            "description" : "CNN sees the extent of destruction wrought upon the city in southern Gaza, from flattened homes to bombed-out buildings.",
+            "url" : "https:\/\/www.cnn.com\/2024\/07\/07\/middleeast\/destruction-inside-rafa-gaza-israel-intl\/index.html"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Forbes"
+            },
+            "author" : "Billy Bambrough",
+            "urlToImage" : "https:\/\/imageio.forbes.com\/specials-images\/imageserve\/668a4e56bf289347c1f27144\/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+            "content" : "Bitcoin has stabilized after its sudden price crash this week, though \"extreme fear\" is threatening to cause further problems.\r\nSubscribe now to Forbes' CryptoAsset &amp; Blockchain Advisor and \"unco… [+3430 chars]",
+            "title" : "'Worst In History'—Bitcoin Suddenly Hurtling Toward A $1.9 Trillion Shock After Huge Price Crash - Forbes",
+            "publishedAt" : "2024-07-07T11:15:52Z",
+            "description" : "The bitcoin price is braced for the U.S. budget deficit to increase by 27% next year, to $1.9 trillion—something that some think is likely to support the bitcoin price...",
+            "url" : "https:\/\/www.forbes.com\/sites\/digital-assets\/2024\/07\/07\/worst-in-history-bitcoin-suddenly-hurtling-toward-a-19-trillion-shock-after-huge-price-crash\/"
+        },
+        {
+            "source" : {
+                "id" : "abc-news",
+                "name" : "ABC News"
+            },
+            "author" : "BRIAN P. D. HANNON Associated Press",
+            "urlToImage" : "https:\/\/i.abcnewsfe.com\/a\/2b6372f6-fad7-4805-9592-522059aa3aea\/wirestory_7fd7d511ca22016793d504b1a47f97ee_16x9.jpg?w=1600",
+            "content" : "The crew of a NASA mission to Mars emerged from their craft after a yearlong voyage that never left Earth.\r\nThe four volunteer crew members spent more than 12 months inside NASA's first simulated Mar… [+3444 chars]",
+            "title" : "Crew of NASA's earthbound simulated Mars habitat emerge after a year - ABC News",
+            "publishedAt" : "2024-07-07T11:07:15Z",
+            "description" : "Four volunteer crew members who spent more than 12 months inside NASA’s first simulated Mars environment at Johnson Space Center in Houston have emerged from the artificial alien enviroment",
+            "url" : "https:\/\/abcnews.go.com\/US\/wireStory\/crew-nasas-earthbound-simulated-mars-habitat-emerge-after-111724789"
+        },
+        {
+            "source" : {
+                "id" : "associated-press",
+                "name" : "Associated Press"
+            },
+            "author" : "JUAN LOZANO, JIM VERTUNO",
+            "urlToImage" : "https:\/\/dims.apnews.com\/dims4\/default\/f8e2705\/2147483647\/strip\/true\/crop\/6931x3899+0+578\/resize\/1440x810!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2Ffe%2Fc7%2Fe08aba4d83fa5cca50a670aa43f2%2F169e971f18a9471293728c7ac2507676",
+            "content" : "HOUSTON (AP) Beryl was hurtling across the warm waters of the Gulf of Mexico on a collision course with Texas, forecast to pick up strength and regain hurricane status before nearing the coast Sunday… [+3560 chars]",
+            "title" : "Beryl storm pushes Texas on alert, expected to regain hurricane strength - The Associated Press",
+            "publishedAt" : "2024-07-07T09:14:00Z",
+            "description" : "Beryl is hurtling across the warm waters of the Gulf of Mexico on a collision course with Texas. It is currently a tropical storm but is forecast to regain hurricane status before nearing the coast Sunday and making landfall the following day. A hurricane war…",
+            "url" : "https:\/\/apnews.com\/article\/hurricane-beryl-texas-a01a44797f9de77a54b3a8be454ea37f"
+        },
+        {
+            "source" : {
+                "id" : "the-washington-post",
+                "name" : "The Washington Post"
+            },
+            "author" : "Lena H. Sun",
+            "urlToImage" : "https:\/\/www.washingtonpost.com\/wp-apps\/imrs.php?src=https:\/\/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com\/public\/PTNMVNTBUZFNPHNCEDHIYJDRVM.png&w=1200",
+            "content" : "July 7, 2024 at 5:00 a.m.\r\nLena H. Sun, a Washington Post national health reporter, has been reporting on rising measles outbreaks in the United States in recent years amid falling vaccination rates.… [+11832 chars]",
+            "title" : "Five people who survived measles recount the disease’s horrors - The Washington Post",
+            "publishedAt" : "2024-07-07T09:01:31Z",
+            "description" : "Measles is back, after vaccination largely eliminated it from the United States. Survivors describe having one of the most contagious diseases on Earth.",
+            "url" : "https:\/\/www.washingtonpost.com\/health\/interactive\/2024\/measles-outbreak-vaccine\/"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "[Removed]"
+            },
+            "author" : null,
+            "urlToImage" : null,
+            "content" : "[Removed]",
+            "title" : "[Removed]",
+            "publishedAt" : "1970-01-01T00:00:00Z",
+            "description" : "[Removed]",
+            "url" : "https:\/\/removed.com"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "BBC News"
+            },
+            "author" : null,
+            "urlToImage" : "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/e6be\/live\/09edb960-3c1c-11ef-96a1-1905e02a91d1.jpg",
+            "content" : "The last time I recall a cabinet meeting on a Saturday was during the Brexit years and the time before that was due to the Falklands War.\r\nIn other words, they are rare.\r\nThis one was about cracking … [+2802 chars]",
+            "title" : "Chris Mason: What can we learn from Starmer's first day as PM? - BBC.com",
+            "publishedAt" : "2024-07-07T07:50:00Z",
+            "description" : "BBC's Political Editor Chris Mason decodes the early signs of the new Labour government.",
+            "url" : "https:\/\/www.bbc.com\/news\/articles\/c728egw36gdo"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "NPR"
+            },
+            "author" : null,
+            "urlToImage" : "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/4482x2521+0+0\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F81%2F43%2Fb3219942491dba3a6473486d54d4%2Fap24187453215505.jpg",
+            "content" : "KATHMANDU, Nepal The highest camp on the world's tallest mountain is littered with garbage that is going to take years to clean up, according to a Sherpa who led a team that worked to clear trash and… [+3192 chars]",
+            "title" : "It will take years to clean up frozen trash at Everest's highest camp - NPR",
+            "publishedAt" : "2024-07-07T07:41:41Z",
+            "description" : "A Nepal government-funded team of soldiers and Sherpas removed 11 tons of garbage, four dead bodies and a skeleton during this year's climbing season. It's estimated that 40 to 50 tons remain.",
+            "url" : "https:\/\/www.npr.org\/2024\/07\/07\/nx-s1-5031974\/everests-highest-camp-garbage-cleanup-will-take-years"
+        }
+    ],
+    "totalResults" : 35
+}

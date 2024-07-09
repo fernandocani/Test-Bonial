@@ -1,0 +1,201 @@
+{
+    "status" : "ok",
+    "articles" : [
+        {
+            "source" : {
+                "id" : "axios",
+                "name" : "Axios"
+            },
+            "author" : "Axios",
+            "urlToImage" : null,
+            "content" : null,
+            "title" : "Biden's ABC interview draws 8.5 million viewers - Axios",
+            "publishedAt" : "2024-07-07T07:29:59Z",
+            "description" : null,
+            "url" : "https:\/\/www.axios.com\/2024\/07\/06\/biden-abc-interview-ratings"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "BBC News"
+            },
+            "author" : null,
+            "urlToImage" : "https:\/\/ichef.bbci.co.uk\/news\/1024\/branded_news\/0fe6\/live\/993a3210-3c21-11ef-b110-a34a533fde39.jpg",
+            "content" : "US actor and wrestler John Cena has announced he is retiring from competing in World Wrestling Entertainment (WWE) events.\r\nCena made the surprise announcement to fans during an appearance at the WWE… [+1510 chars]",
+            "title" : "John Cena announces retirement from WWE wrestling - BBC.com",
+            "publishedAt" : "2024-07-07T07:17:54Z",
+            "description" : "The professional wrestler, regarded as one of the greatest of all time, says he will retire in 2025.",
+            "url" : "https:\/\/www.bbc.com\/news\/articles\/cgr5q835pjro"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Yahoo Entertainment"
+            },
+            "author" : "Jack Baer",
+            "urlToImage" : "https:\/\/s.yimg.com\/ny\/api\/res\/1.2\/3YyK06Ce2zQCZB33vgjujw--\/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-\/https:\/\/s.yimg.com\/os\/creatr-uploaded-images\/2024-07\/7f0d9320-3c24-11ef-b1fe-8bd85734b640",
+            "content" : "Nate Diaz and Jorge Masvidal made for an entertaining boxing match. (Photo by Ronald Martinez\/Getty Images)\r\nThe Nate Diaz-Jorge Masvidal boxing match Saturday ended up delivering a lot more than the… [+3370 chars]",
+            "title" : "Nate Diaz defeats Jorge Masvidal by majority decision in rematch of UFC veterans - Yahoo Sports",
+            "publishedAt" : "2024-07-07T06:05:00Z",
+            "description" : "Masvidal outlanded Diaz in both total punches and power punches.",
+            "url" : "https:\/\/sports.yahoo.com\/nate-diaz-defeats-jorge-masvidal-by-majority-decision-in-rematch-of-ufc-veterans-060246438.html"
+        },
+        {
+            "source" : {
+                "id" : "the-washington-post",
+                "name" : "The Washington Post"
+            },
+            "author" : "Azi Paybarah",
+            "urlToImage" : "https:\/\/www.washingtonpost.com\/wp-apps\/imrs.php?src=https:\/\/arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com\/public\/C5I4DMWXILUWNWAUV2ZL7HFAZA_size-normalized.JPG&w=1440",
+            "content" : "Two radio hosts said Saturday they weresupplied questions from aides to President Biden before separate interviews with him this week, a move that a campaign spokeswoman defended as routine.\r\nIts not… [+4230 chars]",
+            "title" : "Biden campaign gave questions to radio hosts before interviews - The Washington Post",
+            "publishedAt" : "2024-07-07T05:46:32Z",
+            "description" : "The campaign has been criticized for heavily controlling the president’s public appearances to minimize potential gaffes.",
+            "url" : "https:\/\/www.washingtonpost.com\/politics\/2024\/07\/06\/biden-radio-show-gaffes\/"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "CBS Sports"
+            },
+            "author" : "",
+            "urlToImage" : "https:\/\/sportshub.cbsistatic.com\/i\/r\/2024\/07\/03\/60775775-3265-44db-bedd-611f2712b301\/thumbnail\/1200x675\/a65fc958368e0db72fbe06cc8a2127af\/getty-demar-derozan-bulls.jpg",
+            "content" : "The Sacramento Kings aren't exactly known for drawing big-name veteran stars, but late Saturday night, they pulled the trigger on one of the most accomplished players the team has ever acquired. In a… [+13900 chars]",
+            "title" : "DeMar DeRozan trade grades: Spurs win big as Kings swing and miss on All-Star addition - CBS Sports",
+            "publishedAt" : "2024-07-07T05:14:00Z",
+            "description" : "Sacramento's addition of DeMar DeRozan comes with a number of questions",
+            "url" : "https:\/\/www.cbssports.com\/nba\/news\/demar-derozan-trade-grades-spurs-win-big-as-kings-swing-and-miss-on-all-star-addition\/"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "NDTV News"
+            },
+            "author" : null,
+            "urlToImage" : "https:\/\/i.ndtvimg.com\/i\/2017-03\/earth-mantle_650x400_41488715210.jpg?im=FaceCrop,algorithm=dnn,width=1200,height=738?ver-20240615.100",
+            "content" : "The depth and inaccessibility of the inner core mean that uncertainties remain.\r\nDeep within Earth lies a solid metal ball that rotates independently of our spinning planet, like a top whirling insid… [+5076 chars]",
+            "title" : "Scientists Confirm Earth's Core Has Slowed Dramatically, Now Moving In Reverse - NDTV",
+            "publishedAt" : "2024-07-07T03:34:07Z",
+            "description" : "Researchers said that the slowing down could change the length of one day on the Earth by fractions of a second.",
+            "url" : "https:\/\/www.ndtv.com\/science\/scientists-confirm-earths-core-has-slowed-dramatically-now-moving-in-reverse-6051284"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "[Removed]"
+            },
+            "author" : null,
+            "urlToImage" : null,
+            "content" : "[Removed]",
+            "title" : "[Removed]",
+            "publishedAt" : "1970-01-01T00:00:00Z",
+            "description" : "[Removed]",
+            "url" : "https:\/\/removed.com"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Sports Illustrated"
+            },
+            "author" : "Mike McDaniel",
+            "urlToImage" : "https:\/\/images2.minutemediacdn.com\/image\/upload\/c_crop,w_4026,h_2264,x_0,y_0\/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto\/images\/ImagnImages\/mmsport\/si\/01j258ax2ry4g7ee2sjn.jpg",
+            "content" : "The USA men's basketball team gathered this weekend in Las Vegas to begin practicing for the Paris Olympics that begin later this month.\r\nThat meant that LeBron James wasn't able to catch his son (an… [+1056 chars]",
+            "title" : "LeBron James Reacts to Bronny James's First Summer League Basket - Sports Illustrated",
+            "publishedAt" : "2024-07-07T01:09:45Z",
+            "description" : "The Lakers star took in the highlights from his son's debut while attending USA men's basketball training camp in Las Vegas.",
+            "url" : "https:\/\/www.si.com\/nba\/lebron-james-reacts-to-bronny-james-s-first-summer-league-basket"
+        },
+        {
+            "source" : {
+                "id" : "associated-press",
+                "name" : "Associated Press"
+            },
+            "author" : null,
+            "urlToImage" : "https:\/\/dims.apnews.com\/dims4\/default\/6a2b6ea\/2147483647\/strip\/true\/crop\/4228x2378+0+220\/resize\/1440x810!\/quality\/90\/?url=https%3A%2F%2Fassets.apnews.com%2F33%2F39%2F3f7609c0b6013df0f1960ddc0029%2Fb198b854c45d41b2aac28c2d33ff0930",
+            "content" : "INDIANAPOLIS (AP) Caitlin Clark posted the first triple-double by a rookie in WNBA history to help rally Indiana to an 83-78 victory over New York on Saturday at Gainbridge Fieldhouse, snapping the F… [+4134 chars]",
+            "title" : "Caitlin Clark rallies Fever past Liberty 83-78 with first triple-double by WNBA rookie - The Associated Press",
+            "publishedAt" : "2024-07-07T00:50:00Z",
+            "description" : "Caitlin Clark posted the first triple-double by a rookie in WNBA history to rally Indiana to an 83-78 victory over New York on Saturday at Gainbridge Fieldhouse, snapping the Fever’s nine-game losing streak to the Liberty. Clark finished with 19 points, 13 as…",
+            "url" : "https:\/\/apnews.com\/article\/new-york-liberty-indiana-fever-wnba-9ab8ed4e87d43e8e214b20a164c5e8ff"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "NPR"
+            },
+            "author" : "Dave Mistich",
+            "urlToImage" : "https:\/\/npr.brightspotcdn.com\/dims3\/default\/strip\/false\/crop\/5342x3005+0+278\/resize\/1400\/quality\/100\/format\/jpeg\/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fcc%2F09%2F5412700a4879a5de0315422629d0%2Fgettyimages-2159726975.jpg",
+            "content" : "The federal judge overseeing the classified documents case against former President Donald Trump has paused a few deadlines after Trump's legal team requested a review of the U.S. Supreme Court's rul… [+2203 chars]",
+            "title" : "Judge pauses deadlines in Trump classified documents case over immunity questions - NPR",
+            "publishedAt" : "2024-07-07T00:24:53Z",
+            "description" : "Trump has argued that him taking classified documents to his Mar-a-Lago home constituted an official act — and that the Supreme Court's ruling means the charges against him should be dropped.",
+            "url" : "https:\/\/www.npr.org\/2024\/07\/06\/nx-s1-5031562\/judge-pauses-deadlines-trump-classified-documents-case-supreme-court-immunity"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "GameRant"
+            },
+            "author" : "Dominik Bošnjak",
+            "urlToImage" : "https:\/\/static0.gamerantimages.com\/wordpress\/wp-content\/uploads\/wm\/2024\/07\/steam-logo-with-glowing-blue-border-on-blurred-cyberpunk-2077-phantom-liberty-screenshot.jpg",
+            "content" : "Highlights\r\n<ul><li> Red Dead Redemption 2 and eight other award-winning games are currently available at historically low prices. <\/li><li> The recently introduced deals are part of Steam Summer Sal… [+3000 chars]",
+            "title" : "9 Award-Winning Games Drop to Historically Low Prices For Steam Summer Sale - GameRant",
+            "publishedAt" : "2024-07-06T21:58:00Z",
+            "description" : "Multiple award-winning games are available at their lowest-ever prices until mid-July as part of the ongoing Steam Summer Sale 2024.",
+            "url" : "https:\/\/gamerant.com\/steam-summer-sale-2024-best-of-award-winning-game-discounts\/"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "NPR"
+            },
+            "author" : "",
+            "urlToImage" : "https:\/\/media.npr.org\/include\/images\/facebook-default-wide-s1400-c100.jpg",
+            "content" : "ADRIAN FLORIDO, HOST: \r\n In early June, NASA launched its Starliner spacecraft into space. It was a test run for the new Boeing spaceship. The plan was to have it dock on the International Space Stat… [+7362 chars]",
+            "title" : "Amid the Starliner delay, a former astronaut discusses being stuck in space - NPR",
+            "publishedAt" : "2024-07-06T21:39:36Z",
+            "description" : "NPR's Adrian Florido speaks with retired astronaut Terry Virts about what the Boeing Starliner astronauts might going through being in space longer than they thought they would be.",
+            "url" : "https:\/\/www.npr.org\/2024\/07\/06\/nx-s1-5027989\/amid-the-starliner-delay-a-former-astronaut-discusses-being-stuck-in-space"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Page Six"
+            },
+            "author" : "Lindsey Kupfer",
+            "urlToImage" : "https:\/\/pagesix.com\/wp-content\/uploads\/sites\/3\/2024\/07\/85056063.jpg?quality=75&strip=all&w=1024",
+            "content" : "Teresa Giudice is being slammed on social media for Photoshopping a picture with Larsa Pippen. Teresa Giudice\/Instagram\r\nTeresa Giudice is being slammed on Instagram for one of the “worst Photoshop” … [+3119 chars]",
+            "title" : "Teresa Giudice roasted for Photoshop fail in beach pic with Larsa Pippen - Page Six",
+            "publishedAt" : "2024-07-06T20:33:00Z",
+            "description" : "The “Real Housewives of New Jersey” star is being slammed on Instagram for one of the “worst Photoshop” jobs ever.",
+            "url" : "https:\/\/pagesix.com\/2024\/07\/06\/entertainment\/teresa-giudice-roasted-for-photoshop-fail-in-beach-pic-with-larsa-pippen\/"
+        },
+        {
+            "source" : {
+                "id" : "usa-today",
+                "name" : "USA Today"
+            },
+            "author" : "Gabe Hauari, Mike Snider",
+            "urlToImage" : "https:\/\/www.usatoday.com\/gcdn\/authoring\/authoring-images\/2024\/07\/03\/USAT\/74292179007-1242550461.jpg?crop=3999,2250,x0,y208&width=3200&height=1801&format=pjpg&auto=webp",
+            "content" : "Target Circle Week is back.\r\nThe week of sales returns July 7-13, the retail giant announced late last month.\r\nIn a news release on June 25, Target called the event its \"biggest sale of the season\" a… [+3160 chars]",
+            "title" : "Target Circle Week is here: What to know about deals, discounts, how to sign up - USA TODAY",
+            "publishedAt" : "2024-07-06T19:02:03Z",
+            "description" : "Target Circle Week begins Sunday. Here's what you need to know about the deals and discounts the company is offering.",
+            "url" : "https:\/\/www.usatoday.com\/story\/money\/shopping\/2024\/07\/06\/target-circle-week-deals\/74293646007\/"
+        },
+        {
+            "source" : {
+                "id" : "fortune",
+                "name" : "Fortune"
+            },
+            "author" : "Jason Ma",
+            "urlToImage" : "https:\/\/fortune.com\/img-assets\/wp-content\/uploads\/2024\/07\/GettyImages-1154940500-e1720286946148.jpg?resize=1200,600",
+            "content" : "While unemployment is still historically low, its rate of increase could be a sign of deteriorating economic conditions. Thats where the so-called Sahm Rule comes in.\r\nIt says that when the three-mon… [+2796 chars]",
+            "title" : "One of the most accurate recession indicators is close to sounding the alarm as unemployment continues to rise - Fortune",
+            "publishedAt" : "2024-07-06T18:36:00Z",
+            "description" : "While the current jobless rate is still historically low, its rate of increase could be a sign of deteriorating economic conditions.",
+            "url" : "https:\/\/fortune.com\/2024\/07\/06\/recession-indicator-economic-outlook-sahm-rule-unemployment-rate-june-jobs-report\/"
+        }
+    ],
+    "totalResults" : 35
+}

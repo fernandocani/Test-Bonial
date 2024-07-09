@@ -1,0 +1,71 @@
+{
+    "status" : "ok",
+    "articles" : [
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Android Authority"
+            },
+            "author" : null,
+            "urlToImage" : "https:\/\/www.androidauthority.com\/wp-content\/uploads\/2024\/02\/samsung-galaxy-ring-gold-4.jpg",
+            "content" : "<ul><li>A new report claims that the European price of the Samsung Galaxy Ring will be 449.<\/li><li>This could translate to a US price of about $350-$400, higher than the initially expected $300.<\/li… [+2371 chars]",
+            "title" : "Sticker shock: Galaxy Ring price leak hints at expensive debut - Android Authority",
+            "publishedAt" : "2024-07-06T17:25:07Z",
+            "description" : "Leaked pricing information suggests that the Samsung Galaxy Ring could be priced higher than expected, potentially around $350-$400 in the US.",
+            "url" : "https:\/\/www.androidauthority.com\/galaxy-ring-price-leak-3457905\/"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Rutherford Daily Voice"
+            },
+            "author" : "Joe Lombardi",
+            "urlToImage" : "https:\/\/edge.dailyvoice.com\/cloudinary\/virus-4937553_1280_zawrq4?width=1280",
+            "content" : "With social gatherings increasing during the summer months and high temperatures forcing people indoors, New York Gov. Kathy Hocul stated on Saturday, July 6, that New Yorkers should get tested if th… [+1736 chars]",
+            "title" : "COVID-19: NY Hospitalizations Well Above Same Period Last Year Amid Increase In Virus Activity - Daily Voice",
+            "publishedAt" : "2024-07-06T14:30:00Z",
+            "description" : "As new highly contagious COVID-19 variants emerge, authorities are reporting that statewide hospitalizations in New York have significantly increased compared to the same period last summer. \nWith so…",
+            "url" : "https:\/\/dailyvoice.com\/new-york\/putnam\/covid-19-ny-hospitalizations-well-above-same-period-last-year-amid-increase-in-virus-activity\/"
+        },
+        {
+            "source" : {
+                "id" : "cnn",
+                "name" : "CNN"
+            },
+            "author" : "Ashley Strickland",
+            "urlToImage" : "https:\/\/media.cnn.com\/api\/v1\/images\/stellar\/prod\/1-2024mk-16.jpg?c=16x9&q=w_800,c_fill",
+            "content" : "Sign up for CNNs Wonder Theory science newsletter. Explore the universe with news on fascinating discoveries, scientific advancements and more.\r\nWhen NASA scientists recently tracked the orbits of tw… [+4766 chars]",
+            "title" : "New images reveal an asteroid that just whizzed by Earth has an unexpected companion - CNN",
+            "publishedAt" : "2024-07-06T14:19:00Z",
+            "description" : "Scientists at NASA collected radar images as two asteroids made recent close passes of Earth, and the data revealed that one of the space rocks has a tiny moon.",
+            "url" : "https:\/\/www.cnn.com\/2024\/07\/06\/science\/near-earth-asteroids-tiny-moon-scn\/index.html"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Coloradoan"
+            },
+            "author" : "Sady Swanson",
+            "urlToImage" : "https:\/\/www.coloradoan.com\/gcdn\/authoring\/authoring-images\/2024\/06\/14\/USAT\/74103310007-usatsi-23529919.jpg?crop=5183,2917,x0,y269&width=3200&height=1801&format=pjpg&auto=webp",
+            "content" : "A man who works at a dairy farm in northeast Colorado is the first person in the state to contract bird flu.\r\nThis is the fourth human case of bird flu in the country, all of which are connected to a… [+2623 chars]",
+            "title" : "Colorado dairy farm worker contracts bird flu - Coloradoan",
+            "publishedAt" : "2024-07-05T20:49:28Z",
+            "description" : "Four people have tested positive for bird flu in the midst of a multi-state outbreak of the virus predominantly affecting dairy cattle.",
+            "url" : "https:\/\/www.coloradoan.com\/story\/news\/2024\/07\/05\/colorado-dairy-farm-worker-contracts-case-of-bird-flu\/74309124007\/"
+        },
+        {
+            "source" : {
+                "id" : null,
+                "name" : "[Removed]"
+            },
+            "author" : null,
+            "urlToImage" : null,
+            "content" : "[Removed]",
+            "title" : "[Removed]",
+            "publishedAt" : "1970-01-01T00:00:00Z",
+            "description" : "[Removed]",
+            "url" : "https:\/\/removed.com"
+        }
+    ],
+    "totalResults" : 35
+}

@@ -1,0 +1,29 @@
+{
+  "configurations" : [
+    {
+      "id" : "6E1C97EC-605C-417A-935D-992911491099",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:Bonial.xcodeproj",
+      "identifier" : "DFB675CE2C3BF63000F2FC82",
+      "name" : "Bonial"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:Bonial.xcodeproj",
+        "identifier" : "DFB675E42C3BF63100F2FC82",
+        "name" : "BonialTests"
+      }
+    }
+  ],
+  "version" : 1
+}
